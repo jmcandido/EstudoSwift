@@ -1,9 +1,14 @@
 import UIKit
 
-var msg = "Meu primeiro aplicativo em Swift"
 
-print(msg)
+let int = 1
+let double  = 3.14
+let string = "João"
+let isDriver = true
 
-let nome = "João Marcelo" // constante
+let number: Int = 2
+let pi: Double = 3.14
+let name: String = "João"
+let no: Bool = false
 
-print(nome)
+
